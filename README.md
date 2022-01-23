@@ -12,5 +12,5 @@ criar package:
 - mvnw package
 
 run o projeto criado jar:
-- java -jar /target/algafood-api-0.0.1-SNAPSHOT.jar
+- java -jar target/algafood-api-0.0.1-SNAPSHOT.jar
 
