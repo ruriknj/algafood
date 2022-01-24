@@ -11,6 +11,9 @@ comfigurar properties com variavel de ambiente:
 criar package:
 - mvnw package
 
+gerar  o jar da aplicação:
+- mvnw clean install
+
 run o projeto criado jar:
 - java -jar target/algafood-api-0.0.1-SNAPSHOT.jar
 
